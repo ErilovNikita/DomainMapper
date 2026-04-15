@@ -349,7 +349,7 @@ api-dev.telegram.org
 api-test.telegram.org
 api.int.telegram.org
 api.t.me
-api.telegram.orgapi.telegram.org
+api.telegram.org
 api.test.telegram.org
 api.wuhanvirus.kr.t.me
 api2.telegram.org
